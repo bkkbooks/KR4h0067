@@ -33,6 +33,7 @@ markers:
   - {type: line-break, offset: 21, content: '', id: KR4h0067_WYG_369-1a05}
   - {type: indent, offset: 21, content: 　, id: KR4h0067_WYG_369-bkkind9}
   - {type: punctuation, offset: 25, content: (, id: KR4h0067_WYG_369-bkkpn1}
+  - {type: voice, offset: 25, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 26, content: /, id: KR4h0067_WYG_369-bkkpn2}
   - {type: punctuation, offset: 26, content: ), id: KR4h0067_WYG_369-bkkpn3}
   - {type: 'kr:newline', offset: 26, content: '
@@ -202,6 +203,7 @@ markers:
       ', id: KR4h0067_WYG_369-bkkkrnewl43}
   - {type: line-break, offset: 550, content: '', id: KR4h0067_WYG_369-3a08}
   - {type: punctuation, offset: 570, content: (, id: KR4h0067_WYG_369-bkkpn4}
+  - {type: voice, offset: 570, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 571, content: /, id: KR4h0067_WYG_369-bkkpn5}
   - {type: punctuation, offset: 571, content: ), id: KR4h0067_WYG_369-bkkpn6}
   - {type: 'kr:newline', offset: 571, content: '
@@ -255,6 +257,7 @@ markers:
       ', id: KR4h0067_WYG_369-bkkkrnewl55}
   - {type: line-break, offset: 718, content: '', id: KR4h0067_WYG_369-4a02}
   - {type: punctuation, offset: 718, content: (, id: KR4h0067_WYG_369-bkkpn7}
+  - {type: voice, offset: 718, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 720, content: /, id: KR4h0067_WYG_369-bkkpn8}
   - {type: punctuation, offset: 722, content: ), id: KR4h0067_WYG_369-bkkpn9}
   - {type: 'kr:newline', offset: 736, content: '
@@ -329,6 +332,7 @@ markers:
       ', id: KR4h0067_WYG_369-bkkkrnewl72}
   - {type: line-break, offset: 979, content: '', id: KR4h0067_WYG_369-5a01}
   - {type: punctuation, offset: 995, content: (, id: KR4h0067_WYG_369-bkkpn10}
+  - {type: voice, offset: 995, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 996, content: /, id: KR4h0067_WYG_369-bkkpn11}
   - {type: punctuation, offset: 996, content: ), id: KR4h0067_WYG_369-bkkpn12}
   - {type: 'kr:newline', offset: 1000, content: '
@@ -858,4 +862,4 @@ markers:
 
       ', id: KR4h0067_WYG_369-bkkkrnewl197}
   back: []
-hash: sha256:87b9c4df9dcbb25a77f03fad437d664148d37bc12bc2c54bac915f151bccb0b8
+hash: sha256:c3666727453673d1fdf2fafc9cbaeec232896bca260b80e71b6f1eb970ee13f2

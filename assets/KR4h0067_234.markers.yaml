@@ -527,6 +527,7 @@ markers:
       ', id: KR4h0067_krp_234-bkkkrnewl108}
   - {type: line-break, offset: 1586, content: '', id: KR4h0067_WYG_234-7a01}
   - {type: punctuation, offset: 1593, content: (, id: KR4h0067_krp_234-bkkpn1}
+  - {type: voice, offset: 1593, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 1597, content: /, id: KR4h0067_krp_234-bkkpn2}
   - {type: punctuation, offset: 1601, content: ), id: KR4h0067_krp_234-bkkpn3}
   - {type: substitution, offset: 1605, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16282}}
@@ -795,6 +796,7 @@ markers:
       ', id: KR4h0067_krp_234-bkkkrnewl165}
   - {type: line-break, offset: 2472, content: '', id: KR4h0067_WYG_234-10a04}
   - {type: punctuation, offset: 2486, content: (, id: KR4h0067_krp_234-bkkpn4}
+  - {type: voice, offset: 2486, length: 23, name: note, id: n2}
   - {type: punctuation, offset: 2493, content: /, id: KR4h0067_krp_234-bkkpn5}
   - {type: punctuation, offset: 2500, content: ), id: KR4h0067_krp_234-bkkpn6}
   - {type: 'kr:newline', offset: 2500, content: '
@@ -944,6 +946,7 @@ markers:
       ', id: KR4h0067_krp_234-bkkkrnewl195}
   - {type: line-break, offset: 2972, content: '', id: KR4h0067_WYG_234-11b07}
   - {type: punctuation, offset: 2972, content: (, id: KR4h0067_krp_234-bkkpn10}
+  - {type: voice, offset: 2972, length: 27, name: note, id: n3}
   - {type: punctuation, offset: 2986, content: /, id: KR4h0067_krp_234-bkkpn11}
   - {type: substitution, offset: 2989, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: substitution, offset: 2990, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
@@ -1048,4 +1051,4 @@ markers:
 
       ', id: KR4h0067_krp_234-bkkkrnewl215}
   back: []
-hash: sha256:9b857f1e593d46f194c7e0d6817f6002723cda8bc916d9161c4bf9c4164d4bbe
+hash: sha256:49d9da50ec290b2709fcb8452f62e68c183b5932eb77e86cb5099b30fc293443

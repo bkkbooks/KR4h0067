@@ -79,6 +79,7 @@ markers:
   - {type: line-break, offset: 145, content: '', id: KR4h0067_WYG_297-1b05}
   - {type: indent, offset: 145, content: 　　, id: KR4h0067_krp_297-bkkind15}
   - {type: punctuation, offset: 147, content: (, id: KR4h0067_krp_297-bkkpn1}
+  - {type: voice, offset: 147, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 149, content: /, id: KR4h0067_krp_297-bkkpn2}
   - {type: punctuation, offset: 151, content: ), id: KR4h0067_krp_297-bkkpn3}
   - {type: 'kr:newline', offset: 151, content: '
@@ -145,6 +146,7 @@ markers:
   - {type: line-break, offset: 320, content: '', id: KR4h0067_WYG_297-2b01}
   - {type: indent, offset: 320, content: 　　, id: KR4h0067_krp_297-bkkind19}
   - {type: punctuation, offset: 325, content: (, id: KR4h0067_krp_297-bkkpn4}
+  - {type: voice, offset: 325, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 329, content: /, id: KR4h0067_krp_297-bkkpn5}
   - {type: substitution, offset: 329, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 332, content: ), id: KR4h0067_krp_297-bkkpn6}
@@ -450,6 +452,7 @@ markers:
   - {type: line-break, offset: 1207, content: '', id: KR4h0067_WYG_297-6a02}
   - {type: indent, offset: 1207, content: 　　, id: KR4h0067_krp_297-bkkind34}
   - {type: punctuation, offset: 1211, content: (, id: KR4h0067_krp_297-bkkpn7}
+  - {type: voice, offset: 1211, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 1214, content: /, id: KR4h0067_krp_297-bkkpn8}
   - {type: punctuation, offset: 1217, content: ), id: KR4h0067_krp_297-bkkpn9}
   - {type: 'kr:newline', offset: 1217, content: '
@@ -613,4 +616,4 @@ markers:
 
       ', id: KR4h0067_krp_297-bkkkrnewl125}
   back: []
-hash: sha256:dd8c08b067523ecfe2ee0f535aeed42fa47dcac77e150577fca24a3ddec3637a
+hash: sha256:0507531eb8262934b37dada566b87fd5a1f300476827057b4641b44a1ed953f4

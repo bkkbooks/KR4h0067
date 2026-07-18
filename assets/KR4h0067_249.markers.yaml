@@ -35,6 +35,7 @@ markers:
   - {type: indent, offset: 21, content: 　, id: KR4h0067_krp_249-bkkind9}
   - {type: substitution, offset: 22, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19843}}
   - {type: punctuation, offset: 26, content: (, id: KR4h0067_krp_249-bkkpn1}
+  - {type: voice, offset: 26, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 27, content: /, id: KR4h0067_krp_249-bkkpn2}
   - {type: punctuation, offset: 27, content: ), id: KR4h0067_krp_249-bkkpn3}
   - {type: 'kr:newline', offset: 27, content: '
@@ -565,6 +566,7 @@ markers:
       ', id: KR4h0067_krp_249-bkkkrnewl121}
   - {type: line-break, offset: 1484, content: '', id: KR4h0067_WYG_249-7b05}
   - {type: punctuation, offset: 1489, content: (, id: KR4h0067_krp_249-bkkpn4}
+  - {type: voice, offset: 1489, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1490, content: /, id: KR4h0067_krp_249-bkkpn5}
   - {type: punctuation, offset: 1490, content: ), id: KR4h0067_krp_249-bkkpn6}
   - {type: indent, offset: 1490, content: 　, id: KR4h0067_krp_249-bkkind28}
@@ -791,6 +793,7 @@ markers:
   - {type: line-break, offset: 2139, content: '', id: KR4h0067_WYG_249-10a07}
   - {type: substitution, offset: 2149, original: 烟, replacement: 煙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17207}}
   - {type: punctuation, offset: 2151, content: (, id: KR4h0067_krp_249-bkkpn7}
+  - {type: voice, offset: 2151, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2152, content: /, id: KR4h0067_krp_249-bkkpn8}
   - {type: punctuation, offset: 2152, content: ), id: KR4h0067_krp_249-bkkpn9}
   - {type: indent, offset: 2152, content: 　, id: KR4h0067_krp_249-bkkind39}
@@ -847,4 +850,4 @@ markers:
 
       ', id: KR4h0067_krp_249-bkkkrnewl179}
   back: []
-hash: sha256:22f093d615a66f2a63c74d2a495c03dffe379120f4f002bf68aca13605ca64cc
+hash: sha256:340424a2372ca590f903dcd87ce6bd03216246ad824ddd363220a755c6a2742d

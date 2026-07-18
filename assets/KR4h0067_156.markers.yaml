@@ -246,6 +246,7 @@ markers:
   - {type: substitution, offset: 714, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: substitution, offset: 718, original: 晩, replacement: 晚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20126}}
   - {type: punctuation, offset: 728, content: (, id: KR4h0067_krp_156-bkkpn1}
+  - {type: voice, offset: 728, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 732, content: /, id: KR4h0067_krp_156-bkkpn2}
   - {type: punctuation, offset: 736, content: ), id: KR4h0067_krp_156-bkkpn3}
   - {type: 'kr:newline', offset: 736, content: '
@@ -1260,4 +1261,4 @@ markers:
 
       ', id: KR4h0067_krp_156-bkkkrnewl269}
   back: []
-hash: sha256:dccd70b931f50758cd10202a3616a12951958e91abf428fbeaaa349caa5729d2
+hash: sha256:a2244b64587c0a6616f9133d1fadd62e06c7113125e1dc3afcaaec52e3f83e09
